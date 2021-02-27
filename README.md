@@ -7,6 +7,7 @@
 [![Test Coverage](https://api.codeclimate.com/v1/badges/23328b2549a76aa11dd5/test_coverage)](https://codeclimate.com/github/DominicBreuker/pspy/test_coverage)
 [![CircleCI](https://circleci.com/gh/DominicBreuker/pspy.svg?style=svg)](https://circleci.com/gh/DominicBreuker/pspy)
 
+非ROOT 的Linux进程监听
 pspy is a command line tool designed to snoop on processes without need for root permissions.
 It allows you to see commands run by other users, cron jobs, etc. as they execute.
 Great for enumeration of Linux systems in CTFs.
